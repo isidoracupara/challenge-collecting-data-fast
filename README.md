@@ -16,7 +16,7 @@ A Jupyter notebook that loads the JSON data into Pandas, cleans it some and save
 
 ### Mostly over.
 
-TODO: Property type (house/appt) and subtype (villa/loft).
+TODO: A little bit more exploration.
 
 ### How do you install it?
 
