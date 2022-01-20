@@ -11,8 +11,8 @@ from fake_useragent import UserAgent
 
 import ujson
 
-#from ray.util.multiprocessing import Pool
-from multiprocessing import Pool
+from ray.util.multiprocessing import Pool
+#from multiprocessing import Pool
 
 base_url = "https://www.immoweb.be/en/"
 listing_url = base_url + "search/apartment/for-sale?countries=BE&page=%s&orderBy=newest"
